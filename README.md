@@ -1,8 +1,3 @@
-# PERSONAL PORTFOLIO
+# John Simmon Abastas — Portfolio
 
-# TO-DO
-
-- [] Setup git and github repo
-- [] Deploy using vercel
-- [] Setup basic UI
-- [] Gather info for contents
+Personal portfolio website built with **HTML** and **Tailwind CSS v4**.
